@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="e75699a1751312007f44243ccfc144e9" sys_domain="global" table="x_fitbit_fun_with_fitbit_labs" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>name</element>
@@ -51,7 +50,6 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2016-05-10 01:12:41</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>e75699a1751312007f44243ccfc144e9</sys_id>
@@ -60,7 +58,6 @@
             <sys_overrides/>
             <sys_package display_value="fitbit" source="x_fitbit">116b4c00781312007f442fb9b8ed6ee0</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="fitbit">116b4c00781312007f442fb9b8ed6ee0</sys_scope>
             <sys_update_name>sys_ui_section_e75699a1751312007f44243ccfc144e9</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

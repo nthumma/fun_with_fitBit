@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_metadata_link">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
     <sys_metadata_link action="INSERT_OR_UPDATE">
         <directory>update</directory>
         <documentkey>71f2f82d411312007f442bbd1a5d87ca</documentkey>
@@ -40,13 +39,11 @@ postprocessAccessToken: function(accessTokenResponse) {
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-05-10 01:18:30</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>7cb71da1751312007f44243ccfc144aa</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>LAB 1.2 Test Default Oauth Config</sys_name>
         <sys_package display_value="fitbit" source="x_fitbit">116b4c00781312007f442fb9b8ed6ee0</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="fitbit">116b4c00781312007f442fb9b8ed6ee0</sys_scope>
         <sys_update_name>sys_metadata_link_7cb71da1751312007f44243ccfc144aa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
